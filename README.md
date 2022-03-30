@@ -14,6 +14,6 @@
 ### Ferramentas e Tecnologias
 
           
-             [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40"/>]
+             [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" />]
           
           
