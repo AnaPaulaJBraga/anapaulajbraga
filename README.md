@@ -1,16 +1,16 @@
-### Hi there 👋
+## Ana Paula
+### Hello, Devs!!👋
 
-<!--
-**AnaPaulaJBraga/anapaulajbraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Após a maternidade decidi fazer uma mudança na minha vida profissional.Sou ex-dentista em um processo de transição de carreira.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou estudando desenvolvimento web full stack na @Trybe, uma escola que ensina a programar, a aprender e a trabalhar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como entrar em contato comigo: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anapaulajunqueirabraga/) 
+
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=AnaPaulaJBraga)
+
+### Ferramentas e Tecnologias
+
+            <12 class="devicon-html5-plain-wordmark colored"></12>
+          
