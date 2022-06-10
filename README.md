@@ -30,8 +30,8 @@
   <img align="center" alt="ewe-Redux" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlwhdlrgiz7NiLtmqZtEUpanLIG3fI2UoYFAAyl1ADH7OMRu5BFQSXTcKcgeSwGhRaoIc&usqp=CAU">
     <img align="center" alt="ewe-Node" height="30" width="40" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
     <img align="center" alt="ewe-Mysql" height="30" width="40" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png">
-  <img align="center" alt="ewe-Mysql" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png">
-    <img align="center" alt="ewe-Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552">
+  <img align="center" alt="ewe-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+    <img align="center" alt="ewe-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
 </div>
 
  
