@@ -1,15 +1,6 @@
 ## Ana Paula
 ### Hello, Devs!!👋
 
-  Após a maternidade decidi fazer uma mudança na minha vida profissional.
-  Sou ex-dentista em um processo de transição de carreira.
-
-
-- 📫 Como entrar em contato comigo:   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anapaulajunqueirabraga/) 
-
-
-
-
 ### Ferramentas e Tecnologias
 <div style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
